@@ -5,6 +5,8 @@ You can set up the login details for the Vancity credit card on [creditcards.van
 
 The user for your Vancity credit card is different from the banking one. If you have any issues with the setup, you can call Vancity Card Services at 1-800-611-8472.
 
+## Link Vancity Credit Card to Zoho Expense
+This step is important to speed up monthly reconciliations. Once you receive and activate the card, you should add it to [Zoho Expense](https://expense.zoho.com/app/821510568#/cards/gettingstarted).
 
 # Account Details
 ## Vancity Credit Card
