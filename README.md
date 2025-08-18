@@ -1,5 +1,37 @@
-# Transition Guide
+# Financial Officer Tasks
 
+## Financial Reporting to Council and House Finance Committee
+The FO has to present monthly and quarterly reports to HFC and council:
+1. **Monthly reporting to HFC**: The House-Finance Committee has to prepare **monthly** P&L statements to send to staff and executives. The FO can lead this process.
+2. **Monthly reporting to Council**: The FO has to report **monthly** to the Council on the financial situation of the Society.
+3. **Quarterly reporting to Council**: The FO has to prepare and present a budget and financial statements for the Council **each quarter**. According to GSS Bylaws 11.1.1, the fiscal year of the Society ends on May 31st each year, so the quarters are:
+
+    1. Q1 June—August
+    2. Q2 September—November
+    3. Q3 December—February
+    4. Q4 March—May
+
+These reporting requirements are outlined in the following policies:
+- Monthly financial statements in HFC, from GSS Committee and Caucus Policy:
+
+      4.4.1 The House-Finance Committee shall:
+  
+      (b) on an ongoing basis, or at specified time intervals:
+
+	        ii. ensure monthly profit and loss statements are generated and reviewed by the committee, and sent to staff and executives by the committee or a designate
+
+- Reporting to Council, from GSS Bylaws:
+
+      8.5 Duties of Executive Officers
+  
+      8.5.6 The Financial Officer shall:
+
+      (a)  report to Council on the financial situation of the Society on a monthly basis;
+
+      (b)  prepare and present a complete budget and financial statements for the Society each trimester and ensure the completion of the Society budget process on schedule with House Finance Committee;  
+
+
+# Transition Guide
 ## Vancity Credit Cards
 ### Online Access Setup
 - Setting this up is necessary to view the credit card statements and account balance - this is helpful so we know if the account is close to reaching its limit before making a large purchase.
