@@ -1,5 +1,10 @@
 # Financial Officer Tasks
 
+## Monthly Tasks
+- Review and approve pending reports on Zoho and ask other executives to do the same. Every 14th and 29/30th of the month.
+- Review and approve employee timesheets every 14th and 29/30th of the month.
+- Upload statements from Vancity and Scotia ([here](https://ubcgss.sharepoint.com/sites/GSSExpenses2021-22/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGSSExpenses2021%2D22%2FShared%20Documents%2FGSS%20Credit%20Card%20Expenses%2F2025%2D2026%20Bank%20and%20Credit%20Card%20Statement&viewid=fa542f86%2Db42e%2D47a9%2D823c%2D0a3ca823203f&p=true&ga=1)) on the 10th every month.
+
 ## Financial Reporting to Council and House Finance Committee
 The FO has to present monthly and quarterly reports to HFC and council:
 1. **Monthly reporting to HFC**: The House-Finance Committee has to prepare **monthly** P&L statements to send to staff and executives. The FO can lead this process.
@@ -30,8 +35,22 @@ These reporting requirements are outlined in the following policies:
 
       (b)  prepare and present a complete budget and financial statements for the Society each trimester and ensure the completion of the Society budget process on schedule with House Finance Committee;  
 
+## Payroll Processing
+How to process the payroll:
+1. Click on the **Timesheets** pane on the left panel.
+2. Select the current pay period in the middle panel
+3. Review which employees have pending hours. 
+4. For each employee with pending hours, select them in the right drop-down menu. 
+Below this panel you will see a summary detailing how many pending hours they have. Ensure that their total hours (which adds up approved and pending hours) does not exceed their semi-monthly limit.
+
+
 
 # Transition Guide
+
+## General Tips
+- *Book appointments early in the day and plan for a long appointment*. Book signing authority appointments earlier in the day because they can take a long time (up to 2 hours).
+- *Set up account access during the appointment*. Ensure ALL the members who have signing authority have online access set up at the time of the meeting. Setting this up individually can be very time consuming and result in delays in obtaining full access to the accounts.
+
 ## Vancity Credit Cards
 ### Online Access Setup
 - Setting this up is necessary to view the credit card statements and account balance - this is helpful so we know if the account is close to reaching its limit before making a large purchase.
