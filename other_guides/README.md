@@ -9,6 +9,7 @@ In the `Bulk Field Update` menu, choose the correct `Customer` (the project name
 
 <img src="https://github.com/ubcgss/transition_guide/blob/main/images/zoho_projects/zoho_projects_2.png" align="center" height="60%" width="60%"> 
 
+Make sure to record project expenses as: ProjectNameF/AYear_MonthYear_Number. For example, a report for Baby Hamper expenses could be titled BabyHamper2526AY_202510_1.
 	
 
 
