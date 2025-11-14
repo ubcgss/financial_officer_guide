@@ -68,3 +68,11 @@ Below this panel you will see a summary detailing how many pending hours they ha
 ## Vancity Banking
 ### Online Access Setup
 - You can complete the setup using the banking card number and the password/secret word set up when updating the igning authority. Once you set up your login, please save these details on your [Zoho Vault](vault.zoho.com) so you can always have them handy.
+
+## Access to CRA accounts
+### Online Access Setup
+- In order to get access to the CRA accounts, you will have to ensure the BC Corporate Registry is updated with the current executives' names, call the CRA to incorporate your Social Insurance Number number into the account, and add the account under your personal CRA account.
+
+	1. **Update the BC Corporate Registry**. The registry should be updated twice a year with the information of current Council members. This should be done in May after the new executives are sworn in, and in September after the election of the Financial Officer. Email the Administrative Assistant at aa@gss.ubc.ca to get this processed. Updating the BC Registry automatically updates the owners in the GSS CRA account.
+    2. **Update GSS CRA account with personal SIN**. Call the CRA at +1-800-959-5525 to include your SIN number in the account. This is a necessary step for gaining access to the GSS CRA account. You will be asked for the business number, business name, and information from previous filings to validate your access. You can find these documents in the `Finance and Accounting` team under `CRA Access`.
+    3. **Add GSS CRA account to personal CRA account**. Once you have updated your SIN in the backend, you can add the GSS CRA account to your personal CRA account. This has no tax implications and only means that you will be able to access the organization from your personal account. To do this, first sign in to your CRA account. On the welcome page, select `Add account`, and choose `Busines account` in the popup window. When asked about the type of account to add, select `Add business number`. With the updated owner information and SIN, this should give you access to the GSS CRA account.
