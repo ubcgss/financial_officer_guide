@@ -80,3 +80,7 @@ Below this panel you will see a summary detailing how many pending hours they ha
 
 ## Contacts
 - Vancity business account manager: Marcel Hanslo, 604-877-6531, marcel_hanslo@vancity.com
+
+
+Some account details:
+- Plooto: Plooto is under a previous FO's name since the account name could not be updated easily. The FO account has admin access and it should work well without having to update the name. The account details are in Zoho Vault. 
