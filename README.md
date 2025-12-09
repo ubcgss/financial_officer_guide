@@ -82,5 +82,21 @@ Below this panel you will see a summary detailing how many pending hours they ha
 - Vancity business account manager: Marcel Hanslo, 604-877-6531, marcel_hanslo@vancity.com
 
 
-Some account details:
-- Plooto: Plooto is under a previous FO's name since the account name could not be updated easily. The FO account has admin access and it should work well without having to update the name. The account details are in Zoho Vault. 
+## Access to Plooto Account
+We use Plooto to process employee and student reimbursements. Plooto creates a permanent link between an email address and the associated name, and this information cannot be edited once the account is created. To ensure the Finance Officer role can transition cleanly each year, you should create a new Plooto login using an email alias issued under your name.
+
+1. **Request an email alias.** Ask Ethan or the current Systems Administrator (systemadmin@gss.ubc.ca) to create an alias for you. Example format: firstname.lastname.finance@gss.ubc.ca.
+2. **Invite the new account.** From the outgoing FO's Plooto account, send an invitation to the new alias (the necessary login information is stored in Zoho Vault.)
+3. **Update approval policies.** Using the old account, add the new FO account as an approver. Mandatory approvers should include the Accountant and FO. You can do this by clicking on Approvals → [Manage Policies](https://app.plooto.com/#user/settings/controls) → Payment Approvals → Rule for all accounts.
+4. **Downgrade the old FO account.** Change the previous FO’s role to Viewer
+5. **Activate and access the new account.** Log in using the new alias. If the invitation email does not appear, go to the login page and select Forgot Password to generate credentials.
+6. **Remove the old FO account.** Once you confirm that the new account is functioning and approval rules are correct, delete the old FO account.
+
+### Plooto Account Transition — Summary Checklist
+
+- [ ] Create FO email alias
+- [ ] Send Plooto invitation to new alias
+- [ ] Add new FO to approval policies
+- [ ] Downgrade old FO account to Viewer
+- [ ] Activate and log into new FO account
+- [ ] Delete old FO account after verification
