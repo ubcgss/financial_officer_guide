@@ -48,11 +48,56 @@ The FO debit card grants authority to withdraw and transfer funds. The
 outgoing FO must return the card; the incoming FO is issued a new card.
 Subject to variation based on the bank or credit union in use at the time.
 
-### Vancity
+### Changing Signing Authority
 
-{: .note }
-As of the guide's last update, the Vancity migration is in progress. Confirm
-with the GM what Vancity access (if any) the FO currently holds.
+Signing authority is the legal power delegated to specific individuals to sign
+contracts, approve expenditures, and bind the organization to legally
+enforceable agreements. Under GSS Policy 11, the FO, President, and VP UAA
+hold signing authority; in the absence of either the FO or President, the
+VP UAA may sign, but no single person may sign for both. In practice, all
+three are registered signers on every bank account and must be updated
+whenever one of these positions turns over.
+
+Signing authority must be changed separately for the banking accounts and the
+credit cards.
+
+#### Timeline
+
+Aim to have incoming executives registered as signers shortly after their term
+begins on May 1. Work backwards from that date:
+
+| Date | Action |
+|------|--------|
+| April 15 | Complete pre-appointment phone call with Vancity |
+| ~April 17 | Confirm branch visit date with incoming signers |
+| May 1 or shortly after | Go to branch; all signers activate online accounts |
+
+#### Banking Accounts
+
+1. **Schedule a pre-appointment phone call.**
+   Go to [appointments.vancity.com](https://appointments.vancity.com/) and book
+   a *Change of Signer for Business Account* phone appointment under Business
+   Banking. Schedule at least two weeks before your planned branch visit to
+   ensure availability.
+
+2. **Go to the branch and sign the relevant forms.**
+   The Kitsilano Vancity branch has offered reliable service for this process.
+
+3. **Activate accounts after signing.**
+   Vancity will provide each new signer a password and secret word to log in to
+   their website. Make sure all signers complete the online setup immediately
+   after the signing is updated, and record credentials in Zoho Vault. Signers
+   will need online access to approve transfers and payments.
+
+   If the incoming executives are inheriting existing online credentials from the
+   prior term, ensure they obtain the current password, change it, and transfer
+   2FA to their own device.
+
+#### Credit Cards
+
+Update the visa administrator. If you need additional cards, you can also
+request to add additional card holders. For this you can contact the Vancity
+line and this can be done online.
 
 ### Investment Accounts
 Changing the authorized signatories on investment accounts requires paperwork
