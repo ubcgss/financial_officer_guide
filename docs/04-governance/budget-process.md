@@ -13,6 +13,20 @@ team working on the budget for their term during the transition period.
 
 ---
 
+## The Road to the Budget
+
+### Step 1: Update Budget Categories
+*Responsible: Financial Officer & Accountant*
+
+Before drafting the budget, review and update the chart of accounts with the Accountant. Two things to check:
+
+- **Account usage:** Review the *Chart of Accounts – Accounts* sheet in the outgoing budget to identify lines that were unused, misused, or missing.
+- **Reporting needs:** Cross-reference with the updated category explanations in the [Finance and Accounting Guide](https://ubcgss.github.io/finance_accounting_guide/zoho/budget-categories/).
+
+If changes are needed, log them in the *Chart of Accounts – Change Log* sheet of the **new budget** (not the ongoing one). Mark any superseded lines as such. The *Accounts* sheet will update automatically, and you can then begin planning.
+
+---
+
 ## February–May Timeline
 
 (Source: HF Policy Appendix II, Financial Budget Guideline)
