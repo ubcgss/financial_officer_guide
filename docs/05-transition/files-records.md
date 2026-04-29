@@ -46,30 +46,6 @@ incoming FO is invited before handoff.
 
 ---
 
-## Expense Report Naming Convention
-
-Expense reports and financial documents follow this naming convention:
-
-```
-YYYY-MM | ##-DEPT | Category | Short description
-```
-
-**Examples:**
-```
-2024-10 | 10-CORP | Credit Card | GM October statement
-2024-10 | 14-VPSTD | Cheque Req | Orientation event supplies
-2024-11 | 12-VPUAA | Reimbursement | Conference travel — VP UAA
-```
-
-**Department codes:**
-- `10-CORP` — Corporate
-- `11-PRES` — President
-- `12-VPUAA` — VP University and Academic Affairs
-- `13-VPEXT` — VP External Relations
-- `14-VPSTD` — VP Students
-
----
-
 ## What to Archive vs. Hand Off Actively
 
 | Item | Action |
