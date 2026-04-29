@@ -81,7 +81,8 @@ begins on May 1. Work backwards from that date:
    ensure availability.
 
 2. **Go to the branch and sign the relevant forms.**
-   The Kitsilano Vancity branch has offered reliable service for this process.
+   The [Kitsilano Vancity](https://maps.app.goo.gl/zuafcR7Jpt6BQGLb92B1) branch
+   has offered reliable service for this process.
 
 3. **Activate accounts after signing.**
    Vancity will provide each new signer a password and secret word to log in to
@@ -92,6 +93,10 @@ begins on May 1. Work backwards from that date:
    If the incoming executives are inheriting existing online credentials from the
    prior term, ensure they obtain the current password, change it, and transfer
    2FA to their own device.
+
+4. **Retrieve cards from outgoing executives.**
+   Ask each incoming executive to retrieve and destroy the cards that previous
+   executives held.
 
 #### Credit Cards
 
